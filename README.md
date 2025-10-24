@@ -11,9 +11,8 @@
 
 - Administrador de **Sistemas y Redes** (ASIR).
 - Transicionando a Cloud Engineer
-- Viviendo en **Budapest (HU)** — enfocado en **Cloud Computing (AWS)**.
+- Viviendo en **Budapest (HU)** 
 - Preparando **AWS Certified Cloud Practitioner (CLF-C02)**.
-- Me interesan **Big Data & IA** (explorando poco a poco con Python).
 - Proyecto TFG: **Pets-Shop** — e-commerce desplegado en **AWS (EC2 + RDS)**.
 
 > Portafolio (WIP) • [LinkedIn](https://www.linkedin.com/in/carlos-cabrera-domingo-68342b209/)
@@ -25,7 +24,6 @@
 **Lenguajes**
   
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 
 **Bases de Datos**
