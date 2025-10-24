@@ -58,15 +58,6 @@
 
 - **Confluence Integration** — Python script using API, integrated with internal instance for content Q&A.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" width="48%" />
-</div>
 
 ---
 
